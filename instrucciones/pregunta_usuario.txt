@@ -1,0 +1,5 @@
+Knowledge Text:
+@
+{kt}
+@
+Focus Question:

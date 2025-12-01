@@ -1,0 +1,10 @@
+Knowledge Text:
+@
+Focus Question:
+{fq}
+Concept List:
+{cs}
+Knowledge:
+{kt}
+@
+Semantic Relationships:
