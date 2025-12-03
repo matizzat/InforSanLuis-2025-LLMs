@@ -1,0 +1,10 @@
+Texto de Conocimiento:
+@
+Pregunta Focal:
+{pregunta}
+Lista de Conceptos:
+{conceptos}
+Conocimiento:
+{texto}
+@
+Relaciones Semánticas:

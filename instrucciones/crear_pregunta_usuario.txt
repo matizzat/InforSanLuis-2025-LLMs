@@ -1,0 +1,5 @@
+Texto de Conocimiento:
+@
+{texto}
+@
+Pregunta Focal:

@@ -1,0 +1,8 @@
+Texto de Conocimiento:
+@
+Pregunta Focal:
+{pregunta}
+Conocimiento:
+{texto}
+@
+Lista de Conceptos:

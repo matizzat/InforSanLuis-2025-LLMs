@@ -1,0 +1,12 @@
+Texto de Conocimiento:
+@
+Pregunta Focal:
+{pregunta}
+Lista de Conceptos:
+{conceptos}
+Lista de Relaciones:
+{relaciones}
+Conocimiento:
+{texto}
+@
+Tripletas de Conocimiento:
