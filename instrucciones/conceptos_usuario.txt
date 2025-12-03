@@ -1,8 +1,0 @@
-Knowledge Text:
-@
-Focus Question:
-{fq}
-Knowledge:
-{kt}
-@
-List of Concepts:

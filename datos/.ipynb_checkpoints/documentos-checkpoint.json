@@ -1,0 +1,22 @@
+[
+    {
+        "titulo": "agua",
+        "texto": "El agua es una sustancia cuya molécula está compuesta por dos átomos de hidrógeno y uno de oxígeno (H2O) unidos por un enlace covalente.\nEl término agua, generalmente, se refiere a la sustancia en su estado líquido, aunque esta puede hallarse en su forma sólida, llamada hielo, y en su forma gaseosa, denominada vapor.\nEs una sustancia bastante común en la Tierra y el sistema solar, donde se encuentra principalmente en forma de vapor o de hielo.\nEs indispensable para el origen y sustento de la vida.\n"
+    },
+    {
+        "titulo": "don_quijote",
+        "texto": "Don Quijote de la Mancha es una novela escrita por el español Miguel de Cervantes Saavedra.\nPublicada su primera parte con el título de El ingenioso hidalgo don Quijote de la Mancha a comienzos de 1605, es la obra más destacada de la literatura española y una de las principales de la literatura universal.\nEn 1615 apareció su continuación con el título de Segunda parte del ingenioso caballero don Quijote de la Mancha.\nEl Quijote de 1605 se publicó dividido en cuatro partes; pero al aparecer el Quijote de 1615 en calidad de Segunda parte de la obra, quedó revocada de hecho la partición en cuatro secciones del volumen publicado diez años antes por Cervantes.\n"
+    },
+    {
+        "titulo": "proteina_a",
+        "texto": "La Proteína A es una proteína de superficie de 42 kDa que se encontró originalmente en la pared celular de la bacteria Staphylococcus aureus.\nEstá codificada por el gen spa y su regulación es controlada por la topología del ADN, la osmolaridad celular y un sistema de dos componentes llamado ArlS-ArlR.\nHa encontrado uso en la investigación bioquímica debido a su capacidad para unirse a inmunoglobulinas.\nEstá compuesta por cinco dominios homólogos de unión a Ig que se pliegan formando un haz de tres hélices.\nCada dominio es capaz de unirse a proteínas de muchas especies de mamíferos, sobre todo a las IgG.\nSe une a la cadena pesada dentro de la región Fc de la mayoría de las inmunoglobulinas y también dentro de la región Fab en el caso de la familia VH3 humana.\n"
+    },
+    {
+        "titulo": "anticuerpo",
+        "texto": "Los anticuerpos son glucoproteínas del tipo gamma globulina.\nPueden encontrarse de forma soluble en la sangre y los otros fluidos corporales de los vertebrados, disponiendo de una forma idéntica que actúa como receptor de membrana en los linfocitos B y son empleados por el sistema inmunitario para identificar y neutralizar elementos extraños tales como bacterias y virus.\n"
+    },
+    {
+        "titulo": "ojo",
+        "texto": "El ojo es un órgano que detecta la luz y es la base del sentido de la vista. Su función consiste básicamente en transformar la energía lumínica en señales eléctricas que son enviadas al cerebro a través del nervio óptico.\nFunciona de forma muy similar al de la mayoría de los vertebrados y algunos moluscos; posee una lente llamada cristalino, que es ajustable según la distancia; un diafragma, que se llama pupila, cuyo diámetro está regulado por el iris, y un tejido sensible a la luz, que es la retina.\nLa luz penetra a través de la pupila, atraviesa el cristalino y se proyecta sobre la retina, donde se transforma, gracias a unas células llamadas fotorreceptoras, en impulsos nerviosos que se trasladan, a través del nervio óptico, al cerebro.\n"
+    }
+]
